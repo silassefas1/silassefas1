@@ -1,6 +1,6 @@
 # Bem-vindo ao Meu Perfil! 👋
 
-Olá, meu nome é **Silas**. Seja bem-vindo ao meu perfil do GitHub! Fique à vontade para explorar e ver o que estou aprontando! 🚀
+Olá, meu nome é **Silas Sefas**. Seja bem-vindo ao meu perfil do GitHub! Fique à vontade para explorar e ver o que estou aprontando! 🚀
 
 ---
 
@@ -38,11 +38,16 @@ Olá, meu nome é **Silas**. Seja bem-vindo ao meu perfil do GitHub! Fique à vo
 ## 📁 Meus Projetos
 
 <div>
-  <a href="https://www.linkedin.com/in/silas-sefas-7a7757308">
+  <a href="https://github.com/silassefas1?tab=repositories">
   <img height="150em" src ="https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Chess-system-java&bg_color=1A202C&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF">
  <img height="150em" src ="https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Work-Shop-Project&bg_color=1A202C&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF">
-  <img height="150em" src ="https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Estudos&bg_color=1A202C&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF">
  
+</div>
+
+## 📘 Meus Estudos
+<div>
+  <a href="https://github.com/silassefas1/Estudos">
+  <img height="150em" src ="https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Estudos&bg_color=1A202C&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF">
 </div>
 ---
 
