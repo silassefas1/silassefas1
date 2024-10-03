@@ -1,16 +1,21 @@
 # Bem-vindo ao Meu Perfil! 👋
 
-Olá, meu nome é **Silas Sefas**. Seja bem-vindo ao meu perfil do GitHub! Fique à vontade para explorar e ver o que estou aprontando! 🚀
+#### Olá, meu nome é **Silas Sefas**. Seja bem-vindo ao meu perfil do GitHub! Fique à vontade para explorar e ver o que estou aprontando! 🚀.
+#### Sinta-se à vontade para clicar nos cards e ser redirecionado ao meu LinkedIn 💼. Conecte-se comigo ou envie uma mensagem pelos contatos abaixo! 📩
+
+---
+## 🔥 Minhas contribuições
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=silassefas1&card_width=1000&theme=radical&background=000&border=30A3DC&dates=FFF)](https://www.linkedin.com/in/silassefas)
 
 ---
 
 ## 🛠️ Top Tecnologias
-<div>
-  <a href="https://www.linkedin.com/in/silas-sefas-7a7757308">
-  <img height="180em" src ="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=silassefas1&bg_color=1A202C&border_color=30A3DC&title_color=ED64A6&text_color=FFFFFF&langs_count=10">
- <img height="180em" src ="https://github-readme-stats.vercel.app/api?username=silassefas1&theme=transparent&bg_color=1A202C&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFFFFF">
- 
-</div>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=silassefas1&card_width=500&layout=compact&bg_color=000&border_color=30A3DC&title_color=FE428E&text_color=FFFFFF)](https://www.linkedin.com/in/silassefas)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silassefas1&card_width=500&?theme=radical&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FE428E&text_color=FFFFFF)](https://www.linkedin.com/in/silassefas)
+
+
 ---
 
 ## 💻 Habilidades
@@ -36,20 +41,18 @@ Olá, meu nome é **Silas Sefas**. Seja bem-vindo ao meu perfil do GitHub! Fique
 ---
 
 ## 📁 Meus Projetos
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Work-Shop-Project&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF&card_width=500)](https://github.com/silassefas1/Work-Shop-Project)
 
-<div>
-  <a href="https://github.com/silassefas1?tab=repositories">
-  <img height="150em" src ="https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Chess-system-java&bg_color=1A202C&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF">
- <img height="150em" src ="https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Work-Shop-Project&bg_color=1A202C&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF">
-  <img height="150em" src ="https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Projec-DAO-JDBC&bg_color=1A202C&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF">
- 
-</div>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Chess-System-Java&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF&card_width=500)](https://github.com/silassefas1/Chess-System-Java)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Projec-DAO-JDBC&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF&card_width=500)](https://github.com/silassefas1/Projec-DAO-JDBC)
+
 
 ## 📘 Meus Estudos
-<div>
-  <a href="https://github.com/silassefas1/Estudos">
-  <img height="150em" src ="https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Estudos&bg_color=1A202C&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF">
-</div>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Estudos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF&card_width=500)](https://github.com/silassefas1/Estudos)
+
+
+
 ---
 
 ## 🤝 Conecte-se comigo
