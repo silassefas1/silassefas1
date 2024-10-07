@@ -4,6 +4,7 @@
 #### Sinta-se à vontade para clicar nos cards e ser redirecionado ao meu LinkedIn 💼. Conecte-se comigo ou envie uma mensagem pelos contatos abaixo! 📩
 
 ---
+
 ## 🔥 Minhas contribuições
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=silassefas1&card_width=1000&theme=radical&background=000&border=30A3DC&dates=FFF)](https://www.linkedin.com/in/silassefas)
@@ -14,7 +15,6 @@
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=silassefas1&card_width=500&layout=compact&bg_color=000&border_color=30A3DC&title_color=FE428E&text_color=FFFFFF)](https://www.linkedin.com/in/silassefas)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silassefas1&card_width=500&?theme=radical&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FE428E&text_color=FFFFFF)](https://www.linkedin.com/in/silassefas)
-
 
 ---
 
@@ -38,6 +38,9 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+### Formatos de Dados
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
 ---
 
 ## 📁 Meus Projetos
@@ -47,11 +50,8 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Projec-DAO-JDBC&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF&card_width=500)](https://github.com/silassefas1/Projec-DAO-JDBC)
 
-
 ## 📘 Meus Estudos
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Estudos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF&card_width=500)](https://github.com/silassefas1/Estudos)
-
-
 
 ---
 
@@ -62,4 +62,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:silassefas23@gmail.com)
 
 ---
-
