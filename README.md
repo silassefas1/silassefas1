@@ -47,11 +47,12 @@
 ---
 
 ## 📁 Meus Projetos
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Social-Spring-MongoDB&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF&card_width=500)](https://github.com/silassefas1/Social-Spring-MongoDB)
+
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Work-Shop-Project&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF&card_width=500)](https://github.com/silassefas1/Work-Shop-Project)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Chess-System-Java&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF&card_width=500)](https://github.com/silassefas1/Chess-System-Java)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Projec-DAO-JDBC&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF&card_width=500)](https://github.com/silassefas1/Projec-DAO-JDBC)
 
 ## 📘 Meus Estudos
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Estudos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF&card_width=500)](https://github.com/silassefas1/Estudos)
