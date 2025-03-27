@@ -11,9 +11,9 @@
 
 
 ## 📁 Meus Projetos Mais Recentes e Relevantes
- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Desafio-DIO-Decola-Tech-2025&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF&card_width=500)](https://github.com/silassefas1/Desafio-DIO-Decola-Tech-2025)
+ [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=API-Para-Gestao-De-Loja-Spring&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF&card_width=500)](https://github.com/silassefas1/API-Para-Gestao-De-Loja-Spring)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Board-De-Tarefas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF&card_width=500)](https://github.com/silassefas1/Board-De-Tarefas)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Board-De-Tarefas-Java&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF&card_width=500)](https://github.com/silassefas1/Board-De-Tarefas-Java)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=API-Bancaria-Decola-Tech-2025&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF&card_width=500)](https://github.com/silassefas1/API-Bancaria-Decola-Tech-2025)
 
