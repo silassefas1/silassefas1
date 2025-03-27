@@ -9,6 +9,16 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=silassefas1&card_width=1000&theme=radical&background=000&border=30A3DC&dates=FFF)](https://www.linkedin.com/in/silassefas)
 
+
+## 📁 Meus Projetos Mais Recentes e Relevantes
+ [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Desafio-DIO-Decola-Tech-2025&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF&card_width=500)](https://github.com/silassefas1/Desafio-DIO-Decola-Tech-2025)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Board-De-Tarefas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF&card_width=500)](https://github.com/silassefas1/Board-De-Tarefas)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=API-Bancaria-Decola-Tech-2025&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF&card_width=500)](https://github.com/silassefas1/API-Bancaria-Decola-Tech-2025)
+
+
+
 ---
 
 ## 🛠️ Top Tecnologias
@@ -50,14 +60,6 @@
 
 
 ---
-
-## 📁 Meus Projetos Mais Recentes e Relevantes
- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Desafio-DIO-Decola-Tech-2025&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF&card_width=500)](https://github.com/silassefas1/Desafio-DIO-Decola-Tech-2025)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=Board-De-Tarefas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF&card_width=500)](https://github.com/silassefas1/Board-De-Tarefas)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=silassefas1&repo=API-Bancaria-Decola-Tech-2025&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=ED64A6&text_color=FFF&card_width=500)](https://github.com/silassefas1/API-Bancaria-Decola-Tech-2025)
-
 
 
 
