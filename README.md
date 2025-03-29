@@ -38,6 +38,8 @@
 ### 🛠️ Frameworks e Bibliotecas
 ![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 ![JavaFX](https://img.shields.io/badge/JavaFX-2E8B57?style=for-the-badge&logo=java&logoColor=white) 
+![Angular](https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white)
+
 
 ### 🌐 Desenvolvimento Web
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
