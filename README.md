@@ -22,7 +22,7 @@
 ---
 
 ## 🛠️ Top Tecnologias
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=silassefas1&card_width=500&layout=compact&bg_color=000&border_color=30A3DC&title_color=FE428E&text_color=FFFFFF)](https://www.linkedin.com/in/silassefas)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silassefas1&layout=donut-vertical)](https://www.linkedin.com/in/silassefas)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silassefas1&card_width=500&?theme=radical&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FE428E&text_color=FFFFFF)](https://www.linkedin.com/in/silassefas)
 
