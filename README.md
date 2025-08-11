@@ -45,11 +45,19 @@
 <img src="https://img.shields.io/badge/java-%23b07219.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+
 
 <h3>🛠️ Frameworks e Bibliotecas</h3>
 <img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaFX-2E8B57?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-8.0-blueviolet?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-3.4-06B6D4?style=for-the-badge&logo=tailwindcss" />
+<img src="https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react" />
+
+
+
 
 <h3>🌐 Desenvolvimento Web</h3>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
